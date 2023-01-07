@@ -21,7 +21,10 @@ Alcatraz is a x64 binary obfuscator that is able to obfuscate various different 
 Install: https://vcpkg.io/en/getting-started.html  
 
 `asmjit`: vcpkg.exe install asmjit:x64-windows  
-`Zydis`: vcpkg.exe install zydis:x64-windows
+`Zydis`: vcpkg.exe install zydis:x64-windows <br>
+
+visual studio<br>
+Enables C++20 standard-specific features and behavior<br>
 
 # Usage
 ![imgbefore](images/gui.PNG)
